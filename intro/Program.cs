@@ -79,6 +79,9 @@ while ((DateTime.Now - bZamani).TotalSeconds < 5)
                 kopyakarmaSayilar.Remove(sayi2);
 
 
+
+
+
             string metin = $"{sayi1} * {sayi2} = {sonuc}";
             cislemAdımları.Add(metin);
         }
